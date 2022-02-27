@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "eslint-config-prettier": "^8.4.0",
     "prettier": "^2.5.1",
     "vue": "^3.2.25",
     "vue-router": "^4.0.12"
